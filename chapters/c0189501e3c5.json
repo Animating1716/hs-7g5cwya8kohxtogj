@@ -2,40 +2,84 @@
  "version": "1.2.0",
  "chapters": [
   {
-   "startTime": 0.0,
-   "title": "Edge, Forecasters, Security"
+   "startTime": 0,
+   "title": "Der allwissende Tutor: Warum KI-Schüler schlechter abschneiden"
   },
   {
-   "startTime": 439.1,
-   "title": "Garbage, O-ring, Public"
+   "startTime": 240,
+   "title": "Intro, Werbung und Begrüßung von Ethan Mollick"
   },
   {
-   "startTime": 878.2,
-   "title": "Learning, Feedback, Graduate"
+   "startTime": 330,
+   "title": "Warum selbst Top-Prognostiker den KI-Fortschritt unterschätzen"
   },
   {
-   "startTime": 1317.3,
-   "title": "Class, Creating, Learned"
+   "startTime": 420,
+   "title": "Warum KI noch nicht in der Produktivität ankommt"
   },
   {
-   "startTime": 1756.4,
-   "title": "Cancer, Breast, Scientific"
+   "startTime": 570,
+   "title": "O-Ringe und Mülleimer: Warum Firmen sich so schwer umbauen"
   },
   {
-   "startTime": 2195.6,
-   "title": "Letter, Advantages, Obituary"
+   "startTime": 720,
+   "title": "Interne, öffentliche und Alltagsmodelle: Dreimal „KI“"
   },
   {
-   "startTime": 2634.7,
-   "title": "Presentation, Muse, Videos"
+   "startTime": 900,
+   "title": "Paradox Expertise: Profis profitieren, Einsteiger verlieren"
   },
   {
-   "startTime": 3073.8,
-   "title": "Agents, Millions, Muse"
+   "startTime": 1080,
+   "title": "KI an der Uni: Verbieten oder lehren?"
   },
   {
-   "startTime": 3512.9,
-   "title": "Agents, Attacks, Hour"
+   "startTime": 1380,
+   "title": "Prompting ist tot – Schreiben bleibt Handarbeit"
+  },
+  {
+   "startTime": 1560,
+   "title": "Denken als Fitnessstudio: Wann die Mühe der Sinn ist"
+  },
+  {
+   "startTime": 1680,
+   "title": "Wissen ohne Verständnis: KI löst Mathe-Probleme"
+  },
+  {
+   "startTime": 1980,
+   "title": "Was von Wissenschaft und Forschung wertvoll bleibt"
+  },
+  {
+   "startTime": 2160,
+   "title": "Nachrufe und Hochzeitsreden: Wann menschliche Arbeit zählt"
+  },
+  {
+   "startTime": 2460,
+   "title": "Geschmack, Urteilskraft und verschwimmende Berufe"
+  },
+  {
+   "startTime": 2640,
+   "title": "Warum gutes Präsentieren wichtiger wird"
+  },
+  {
+   "startTime": 2850,
+   "title": "Die Neuheit: Persönliche Agenten wie Muse"
+  },
+  {
+   "startTime": 3180,
+   "title": "Millionen Agenten gegen den Kundenservice"
+  },
+  {
+   "startTime": 3420,
+   "title": "Agenten-Schwärme: Was Mollick falsch eingeschätzt hat"
+  },
+  {
+   "startTime": 3600,
+   "title": "Wandel auch ohne bessere KI"
+  },
+  {
+   "startTime": 3660,
+   "title": "„Nicht AGI-pilled genug“: Ausblick und Koexistenz"
   }
  ]
 }
