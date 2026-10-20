@@ -2,52 +2,108 @@
  "version": "1.2.0",
  "chapters": [
   {
-   "startTime": 0.0,
-   "title": "Jacobsson, Lecture, Meetings"
+   "startTime": 0,
+   "title": "Begrüßung: Die Per-Jacobsson-Vorlesung"
   },
   {
-   "startTime": 407.5,
-   "title": "Bring, Software, Round"
+   "startTime": 120,
+   "title": "Kristalina Georgieva über KI beim IWF-Jahrestreffen"
   },
   {
-   "startTime": 815.0,
-   "title": "Score, Paper, Systems"
+   "startTime": 390,
+   "title": "Vorstellung von Jack Clark und dem Podium"
   },
   {
-   "startTime": 1222.5,
-   "title": "Capacity, Revolution, Scientists"
+   "startTime": 480,
+   "title": "Jack Clark: Warum die Singularität begonnen hat"
   },
   {
-   "startTime": 1630.0,
-   "title": "Understand, Ourselves, Scientists"
+   "startTime": 720,
+   "title": "KI beschleunigt Forschung, Code und Cyberangriffe"
   },
   {
-   "startTime": 2037.5,
-   "title": "Investment, Adoption, Sustainable"
+   "startTime": 900,
+   "title": "KI in Medikamentenforschung und Laborrobotik"
   },
   {
-   "startTime": 2445.0,
-   "title": "Impact, Showing, Observe"
+   "startTime": 960,
+   "title": "Von 2 auf 94 Prozent: Humanity's Last Exam"
   },
   {
-   "startTime": 2852.5,
-   "title": "Against, Minutes, Take-home"
+   "startTime": 1200,
+   "title": "Kreativität als letzte Grenze – virtuelle Wissenschaftler"
   },
   {
-   "startTime": 3260.0,
-   "title": "Occupations, Wages, Jobs"
+   "startTime": 1440,
+   "title": "Was das für Wachstum und neue Industrien heißt"
   },
   {
-   "startTime": 3667.5,
-   "title": "Production, Observe, Standardized"
+   "startTime": 1500,
+   "title": "Planen für den Erfolg: Labore, Rohstoffe, Chancen für Länder"
   },
   {
-   "startTime": 4075.0,
-   "title": "Least, Fear, Highly"
+   "startTime": 1740,
+   "title": "Die Risiken: Biowaffen, Cyber und KI-Forschung über KI"
   },
   {
-   "startTime": 4482.5,
-   "title": "Kids, Panel, Conversation"
+   "startTime": 1920,
+   "title": "Eine bessere Welt vorstellen – und Zurückhaltung üben"
+  },
+  {
+   "startTime": 2160,
+   "title": "Yan Shen: Chinas Weg von KI-Investitionen zu Produktivität"
+  },
+  {
+   "startTime": 2460,
+   "title": "Wer profitiert? Matthäus-Effekt und Druck zur KI-Nutzung"
+  },
+  {
+   "startTime": 2640,
+   "title": "Chinas KI-Apps, Gesundheit und weltweite Verbreitung"
+  },
+  {
+   "startTime": 2880,
+   "title": "Deflation und Schattenseiten in China"
+  },
+  {
+   "startTime": 2940,
+   "title": "Anantha Nageswaran: Die Sicht vom empfangenden Ende"
+  },
+  {
+   "startTime": 3060,
+   "title": "Jobverluste für Junge und „kognitive Schulden“"
+  },
+  {
+   "startTime": 3180,
+   "title": "Wettrennen der Labore und Finanzrisiken der KI-Blase"
+  },
+  {
+   "startTime": 3300,
+   "title": "Was Regierungen tun sollten: Pflege, Handwerk, Ausbildung"
+  },
+  {
+   "startTime": 3540,
+   "title": "Podium: Arbeitsmarkt und Berufseinstieg"
+  },
+  {
+   "startTime": 3780,
+   "title": "Chinas Unternehmen und neue Nachfrage durch KI"
+  },
+  {
+   "startTime": 4020,
+   "title": "Indien jenseits der Frontier: sparsame KI und Arbeitsplätze"
+  },
+  {
+   "startTime": 4200,
+   "title": "Ist die Menschheit verloren? Regulierung und Zusammenarbeit"
+  },
+  {
+   "startTime": 4500,
+   "title": "Haben wir KI noch unter Kontrolle?"
+  },
+  {
+   "startTime": 4620,
+   "title": "Publikumsfragen: Schulden und was Kinder studieren sollten"
   }
  ]
 }
